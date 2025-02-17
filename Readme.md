@@ -1,11 +1,6 @@
 # 🚀 **DevOps Terraform Scripts**
 
-<p>
-    <h2 align="center">Visitors Count</h2>
-    <p align="center">
-      <img src="https://profile-counter.glitch.me/{deepeshmlgupta}/count.svg" alt="VisitorCount">
-    </p>
-</p>
+
 
 <br><br>
 
