@@ -42,6 +42,13 @@ Over the next 7 days, I will:
    terraform destroy -auto-approve
    ```
 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/deepeshmlgupta/devops-terraform-scripts&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+
+
+
+
+
 ## 📢 Stay Connected
 
 Follow my journey on LinkedIn: [Deepesh Gupta](https://www.linkedin.com/in/deepeshmlgupta/)  
