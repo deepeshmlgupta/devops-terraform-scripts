@@ -1,0 +1,7 @@
+---------------------------------------------------------------------
+🪣 S3 Bucket Name: devops-terraform-bucket
+👤 IAM User: devops-terraform-user
+📜 IAM Policy Name: devops-terraform-user-policy
+✅ Access Key: xxxxxxxxxxxxxx
+🔑 Secret Access Key: xxxxxxxxxxxxxxxxxxxxxxxxxx
+-------------------------------❌-❌-❌------------------------------
