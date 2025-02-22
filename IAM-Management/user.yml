@@ -1,0 +1,7 @@
+users:
+  - username: jhetalal
+    roles: [AmazonEC2FullAccess]
+  - username: metha
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: sodhi
+    roles: [AmazonS3ReadOnlyAccess, AmazonEC2FullAccess]
