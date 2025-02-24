@@ -4,15 +4,16 @@ Welcome to the **DevOps Terraform Scripts** repository! This repository contains
 
 ## 📌 What’s Included?
 
+✅ **Covering Basics of Terraform** 🖥
 ✅ **Launching EC2 instances** 🖥️  
-✅ **Creating IAM users & roles** 🔐  
-✅ **Configuring networking (VPC, subnets, security groups)** 🌐  
+✅ **Creating IAM users & roles** 🔐   
 ✅ **Setting up S3 buckets & storage** 📦  
+✅ **Backup of Tfstate** 📦  
 ✅ **Deploying other AWS resources** 🚀  
 
 ## 🚀 My 7-Day Terraform Sprint
 
-Over the next 7 days, I will:
+Over the next 7 days(17/02/2025 - 23/02/2025), I will:
 - Write and push **Terraform scripts daily** to this repository.
 - Deploy and manage **AWS infrastructure** using best practices.
 - Share insights and improvements along the way.
